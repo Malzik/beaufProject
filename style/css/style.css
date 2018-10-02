@@ -3,4 +3,13 @@ body {
 }
 .navbarColor {
   background-color: #6598ff;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1% 10%;
+}
+.rows{
+    display: flex;
+    width: auto;
+    flex-direction: row;
 }

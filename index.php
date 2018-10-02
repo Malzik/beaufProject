@@ -1,3 +1,9 @@
+<?php
+	if(!isset($_SESSION['connected']))
+	{
+		$_SESSION['connected'] = 0;
+	}
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
