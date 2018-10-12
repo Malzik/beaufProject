@@ -55,19 +55,25 @@
 		    <div class="card">
 			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
 			 	<div class="container">
-				    <h4><b>Dams Dick</b></h4> 
+				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
 			 	<div class="container">
-				    <h4><b>Dams Dick</b></h4> 
+				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
 			 	<div class="container">
-				    <h4><b>Dams Dick</b></h4> 
+				    <h4>Dams Dick</h4> 
+				</div>
+			</div>
+			<div class="card">
+			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
+			 	<div class="container">
+				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 		  </div>
