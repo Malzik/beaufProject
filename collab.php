@@ -52,7 +52,24 @@
 	  	</div>
 		 <div class="column" style="background-color:#bbb;">
 			<h2>Column 2</h2>
-		    <p>Some text..</p>
+		    <div class="card">
+			    <img src="style/img/f1.png" alt="Avatar" style="width:100%">
+			 	<div class="container">
+				    <h4><b>Dams Dick</b></h4> 
+				</div>
+			</div>
+			<div class="card">
+			    <img src="style/img/f1.png" alt="Avatar" style="width:100%">
+			 	<div class="container">
+				    <h4><b>Dams Dick</b></h4> 
+				</div>
+			</div>
+			<div class="card">
+			    <img src="style/img/f1.png" alt="Avatar" style="width:100%">
+			 	<div class="container">
+				    <h4><b>Dams Dick</b></h4> 
+				</div>
+			</div>
 		  </div>
 		  <div class="column" style="background-color:#ccc;">
 		    <h2>Column 3</h2>
