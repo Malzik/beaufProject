@@ -50,8 +50,9 @@
 		    </label>
 		    <input type="submit" name="Envoyez">
 	  	</div>
-		 <div class="column" style="background-color:#bbb;">
-			<h2>Column 2</h2>
+		 <div class="column" style="background-color:#bbb;" id="column2">
+			<h2><center>Profil</center></h2>
+			<div id="profilColumn">
 		    <div class="card">
 			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
 			 	<div class="container">
@@ -59,23 +60,48 @@
 				</div>
 			</div>
 			<div class="card">
-			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
+			    <img src="style/img/stade.jpg" alt="Avatar" class="imgprofil">
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
-			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
+			    <img src="style/img/benoit.jpg" alt="Avatar" class="imgprofil">
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
-			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
+			    <img src="style/img/julia.jpg" alt="Avatar" class="imgprofil">
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
+			<div class="card">
+			    <img src="style/img/moi.jpg" alt="Avatar" class="imgprofil">
+			 	<div class="container">
+				    <h4>Dams Dick</h4> 
+				</div>
+			</div>
+			<div class="card">
+			    <img src="style/img/rogrigo.jpg" alt="Avatar" class="imgprofil">
+			 	<div class="container">
+				    <h4>Dams Dick</h4> 
+				</div>
+			</div>
+			<div class="card">
+			    <img src="style/img/rh.jpg" alt="Avatar" class="imgprofil">
+			 	<div class="container">
+				    <h4>Dams Dick</h4> 
+				</div>
+			</div>
+			<div class="card">
+			    <img src="style/img/ben.jpg" alt="Avatar" class="imgprofil">
+			 	<div class="container">
+				    <h4>Dams Dick</h4> 
+				</div>
+			</div>
+		</div>
 		  </div>
 		  <div class="column" style="background-color:#ccc;">
 		    <h2>Column 3</h2>
