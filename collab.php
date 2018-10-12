@@ -53,19 +53,19 @@
 		 <div class="column" style="background-color:#bbb;">
 			<h2>Column 2</h2>
 		    <div class="card">
-			    <img src="style/img/f1.png" alt="Avatar" style="width:100%">
+			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
 			 	<div class="container">
 				    <h4><b>Dams Dick</b></h4> 
 				</div>
 			</div>
 			<div class="card">
-			    <img src="style/img/f1.png" alt="Avatar" style="width:100%">
+			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
 			 	<div class="container">
 				    <h4><b>Dams Dick</b></h4> 
 				</div>
 			</div>
 			<div class="card">
-			    <img src="style/img/f1.png" alt="Avatar" style="width:100%">
+			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
 			 	<div class="container">
 				    <h4><b>Dams Dick</b></h4> 
 				</div>
