@@ -55,48 +55,72 @@
 			<div id="profilColumn">
 		    <div class="card">
 			    <img src="style/img/f1.png" alt="Avatar" class="imgprofil">
+			    <div class="overlay">
+				    <div class="text"><a href="leprofil">Profil</a></div>
+				</div>
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/stade.jpg" alt="Avatar" class="imgprofil">
+			    <div class="overlay">
+				    <div class="text"><a href="leprofil">Profil</a></div>
+				</div>
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/benoit.jpg" alt="Avatar" class="imgprofil">
+			    <div class="overlay">
+				    <div class="text"><a href="leprofil">Profil</a></div>
+				</div>
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/julia.jpg" alt="Avatar" class="imgprofil">
+			    <div class="overlay">
+				    <div class="text"><a href="leprofil">Profil</a></div>
+				</div>
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/moi.jpg" alt="Avatar" class="imgprofil">
+			    <div class="overlay">
+				    <div class="text"><a href="leprofil">Profil</a></div>
+				</div>
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/rogrigo.jpg" alt="Avatar" class="imgprofil">
+			    <div class="overlay">
+				    <div class="text"><a href="leprofil">Profil</a></div>
+				</div>
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/rh.jpg" alt="Avatar" class="imgprofil">
+			    <div class="overlay">
+				    <div class="text"><a href="leprofil">Profil</a></div>
+				</div>
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
 			</div>
 			<div class="card">
 			    <img src="style/img/ben.jpg" alt="Avatar" class="imgprofil">
+			    <div class="overlay">
+				    <div class="text"><a href="leprofil">Profil</a></div>
+				</div>
 			 	<div class="container">
 				    <h4>Dams Dick</h4> 
 				</div>
